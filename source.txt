@@ -2,7 +2,7 @@
 Welcome!
 To start the game, press 'Run' in the left corner
 Controls: arrow keys, spacebar
-Enjoy, hope you have fun!
+Enjoy, have fun!
 
 Made by: Darius Burinskis (aka DevBDarius)
 Art assets by: Kim Lathrop
